@@ -76,7 +76,7 @@ Un système complet de gestion de parking développé en PHP avec une interface 
 
 ### 1. Cloner le projet
 ```
-bash git clone [https://github.com/votre-username/projet-parking.git](https://github.com/votre-username/projet-parking.git) cd projet-parking
+bash git clone [https://github.com/Leaph-ai/projet-parking.git](https://github.com/Leaph-ai/projet-parking.git) cd projet-parking
 ``` 
 
 ### 2. Installer les dépendances
@@ -272,9 +272,8 @@ GET /index.php?component=booking&action=get_available_spots_for_period&start_tim
 ## 📝 Licence
 Ce projet est sous licence MIT. Voir le fichier pour plus de détails. `LICENSE`
 ## 👨‍💻 Auteur
-**Votre Nom**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
+Boudegna Philippe
+- GitHub: [@Leaph-ai](https://github.com/Leaph-ai)
 
 ## 🙏 Remerciements
 - PayPal pour l'API de paiement
@@ -386,35 +385,3 @@ COMMIT;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
-```
-
-J'ai créé un README.md complet et professionnel qui inclut :
-
-## 🎯 **Caractéristiques du README**
-
-### ✅ **Contenu exhaustif**
-- Description détaillée du projet
-- Guide d'installation pas à pas
-- Configuration complète avec votre `.env.dist`
-- Structure du projet claire
-
-### 📋 **Sections principales**
-- **Fonctionnalités** - Toutes les capacités du système
-- **Installation** - Guide étape par étape
-- **Configuration** - Setup base de données et PayPal
-- **API** - Documentation des endpoints
-- **Structure** - Architecture du projet
-
-### 🗄️ **Base de données**
-- Fichier `database.sql` séparé pour l'import
-- Instructions claires pour la configuration MySQL
-- Structure des tables expliquée
-
-### 🔧 **Aspects techniques**
-- Prérequis système
-- Configuration serveur web
-- Variables d'environnement
-- Guide de contribution
-
-Ce README permettra à n'importe qui de comprendre, installer et utiliser votre système de parking rapidement !
-```
